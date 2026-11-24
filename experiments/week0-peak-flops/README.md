@@ -1,6 +1,6 @@
 # Week 0: peak FLOP/s
 
-Nov 24, 2026 · @bigdikbruh
+Nov 24, 2026 · Tymoteusz Niewodniczanski
 
 How fast can my computer do maths?
 
